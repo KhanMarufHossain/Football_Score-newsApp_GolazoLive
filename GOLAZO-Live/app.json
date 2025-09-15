@@ -15,7 +15,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.golazo.live"
     },
     "android": {
       "adaptiveIcon": {
@@ -23,6 +24,7 @@
         "backgroundColor": "#0F0F0F"
       },
       "package": "com.golazo.live",
+      "versionCode": 4,
       "edgeToEdgeEnabled": true
     },
     "web": {
